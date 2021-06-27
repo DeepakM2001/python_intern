@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun 27 18:06:40 2021
+
+@author: Deepak Murugesan
+"""
+
+
+When try-except scenario is not required?
+
+Python Exceptions are error scenarios that alter the normal execution flow of the program The process of The code inside the else block is executed if there are no exceptions raised.
